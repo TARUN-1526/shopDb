@@ -431,6 +431,8 @@ Deletes the Order with `order_id = 1`.
 
 # Database Relationships
 
+<img width="1734" height="845" alt="Screenshot 2026-07-17 174223" src="https://github.com/user-attachments/assets/4fbfff0a-b52f-46d2-8007-c5ce0ca3b12c" />
+
 The main relationships used in the project are:
 
 ```text
